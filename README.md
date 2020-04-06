@@ -15,3 +15,5 @@ Powering the Distributed Web
 
 Thanks to ConsenSys Web3 Studio for their Bootleg 
 https://medium.com/web3studio/how-patreon-used-bootleg-to-turn-live-performances-into-the-gift-that-keeps-giving-for-672713b4ae36
+
+https://www.svgrepo.com/svg/283966/video-game-gamer
