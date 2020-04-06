@@ -1,0 +1,24 @@
+{
+  "name": "ganking-app-contracts",
+  "version": "1.0.0",
+  "description": "Ganking application contracts",
+  "author": "Isabel Lopez Cepero",
+  "homepage": "https://github.com/isabelgeek/ganking-gamers-royalty-sharing#readme",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelgeel/ganking-gamers-royalty-sharing.git"
+  },
+  "scripts": {
+    "build": "truffle compile"
+  },
+  "bugs": {
+    "url": "https://github.com/isabelgeek/ganking-gamers-royalty-sharing/issues"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.34",
+    "dotenv": "^8.2.0",
+    "openzeppelin-solidity": "^2.1.2",
+    "ipfs-http-client": "^30.1.3"
+  }
+}
