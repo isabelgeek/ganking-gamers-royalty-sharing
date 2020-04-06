@@ -2,6 +2,8 @@
 These are the Ganking dApp smart contracts.
 You will deploy the smart contract and mint the token.
 
+Shared royalty tokens follow a withdraw pattern to avoid re-entrancy, maximum number of loops and double-withdrawals.
+
 Please follow the same steps as in the `ganking-tokens` example.
 Remember that you will need an account with test ether (Ropsten) in your wallet.
 
